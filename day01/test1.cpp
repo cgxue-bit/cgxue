@@ -9,7 +9,7 @@ int main()
     cout << "put in the second name:";
     getline(cin, name2);
     //resultAll = name1+name2;
-    cout<<"¹§Ï² " << name1 << " and " << name2 << " Ï²½áÁ¼Ôµ!!!" << endl;
+    cout<<"æ­å–œ" << name1 << " and " << name2 << "å–œç»“è‰¯ç¼˜" << endl;
     system("pause");
     return 0;
 }
